@@ -1,0 +1,1 @@
+Simple contract for tracking ERC20 token balances
